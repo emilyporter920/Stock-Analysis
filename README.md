@@ -150,7 +150,7 @@ The purpose of this analysis is to help aid Steve and his parents in their decis
 
 ### 2017 Stock Analysis
 
-In **Figure 1.1**, shown below, is the stock analysis performed on the 2017 dataset. From this figure it is seen that many of the stocks are growing, with the exception of "TERP" which decreased over the year of 2017, with the most increase found in "DQ", "ENPH", "FSLR", and "SEDG" return. The run time to execute the analysis of stocks for the year 2017, shown below in **Figure 1.2**, was approximately 0.30 seconds which was approximately 1/4 of the time taken to perform the analysis using the previous code. 
+In **Figure 1.1**, shown below, is the stock analysis performed on the 2017 dataset. From this figure it is seen that many of the stocks are growing, with the exception of "TERP" which decreased over the year of 2017, with the most increase found in "DQ", "ENPH", "FSLR", and "SEDG" return. The run time to execute the analysis of stocks for the year 2017, shown below in **Figure 1.2**, was approximately 0.19 seconds which was approximately 1/10 of the time taken to perform the analysis using the previous code. 
 
 ![](Resources/VBA_Challenge_2017.png)
 <div align="center"
@@ -164,7 +164,7 @@ In **Figure 1.1**, shown below, is the stock analysis performed on the 2017 data
 
 ### 2018 Stock Analysis
 
-In **Figure 2.1**, shown below, is the stock analysis performed on the 2018 dataset. From this figure it is seen that many of the stocks are decreasing in total daily volume, with the exception of "ENPH," which showed a large increase in 2017 and "RUN", with the most decrease found in "DQ" and "JKS". The run time to execute the analysis of stocks for the year 2018, shown below in **Figure 2.2**, was approximately 0.31 seconds which was approximately 1/5 of the time taken to perform the analysis using the previous code.
+In **Figure 2.1**, shown below, is the stock analysis performed on the 2018 dataset. From this figure it is seen that many of the stocks are decreasing in total daily volume, with the exception of "ENPH," which showed a large increase in 2017 and "RUN", with the most decrease found in "DQ" and "JKS". The run time to execute the analysis of stocks for the year 2018, shown below in **Figure 2.2**, was approximately 0.19 seconds which was approximately 1/10 of the time taken to perform the analysis using the previous code.
 
 ![](Resources/VBA_Challenge_2018.png)
 <div align="center"
