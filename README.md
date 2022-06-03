@@ -67,14 +67,14 @@ The purpose of this analysis is to help aid Steve and his parents in their decis
       Dim TickerStartingPrices(12) As Single
       Dim TickerEndingPrices(12) As Single
     
-      ''2a) Create a for loop to initialize the tickerVolumes to zero.
+      '2a) Create a for loop to initialize the tickerVolumes to zero.
     
       For i = 0 To 11
           TickerVolumes(i) = 0
         
       Next i
     
-      ''2b) Loop over all the rows in the spreadsheet.
+      '2b) Loop over all the rows in the spreadsheet.
     
       Worksheets(yearValue).Activate
 
