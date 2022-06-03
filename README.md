@@ -182,9 +182,9 @@ In 2017 there was a large overall increase in stocks which did not sustain into 
 
 #### Advantages:
 
-* Refactoring code is used to make the processes more efficient. In this case, refactoring the code allowed the process to take 1/4 of the time before refactoring.
-* Refactoring code makes the code look cleaner.
-* Refactoring code uses less memory.
+* Refactoring code is used to make the processes more efficient. In this case the refactored code allowed the process to take a fraction of the time.
+* Refactored code makes the code look cleaner.
+* Refactored code uses less memory.
 
 #### Disadvantages:
 
