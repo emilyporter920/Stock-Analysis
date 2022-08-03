@@ -190,3 +190,10 @@ In 2017 there was a large overall increase in stocks which did not sustain into 
 
 * Refactoring code takes time to edit and adjust code to be more efficient. 
 * Refactoring code may cause issues in the way the code runs.
+
+## Questions
+
+* You can contact me via email or GitHub!
+
+    * Email: emilyporter920@gmail.com
+    * GitHub Profile: Emily Porter || github.com/emilyporter920 
